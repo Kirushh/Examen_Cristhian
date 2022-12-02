@@ -1,0 +1,5 @@
+Git nos sirve para crear repositorios, comenzar áreas de trabajo que luego pueden ser repositorios donde podemos acceder 
+de forma remota gracias a github.
+Nos permite trabajar en los cambios actuales realizados en el repositorio.
+Y también nos permite colaborar con otras personas en una misma área de trabajo.
+Git nos proporciona los historiales de cambios y más para poder tener un buen control de nuestro trabajo.
